@@ -1,1 +1,2 @@
 The content is test.
+I want to go into editting mode.
